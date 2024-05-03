@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayomide Olayiwola
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning by taking up projects to improve my skill better ...
-- 💞️ I’m looking to collaborate 
+- 👀 I’m a data analyst
+- 🌱 I’m proficient in Excel, Tableau, PowerBi, Sql, and python loading......
+- 💞️ Data analysis is a vast field and i am eager to explore all its areas. 
 - 📫 you can reach me via LinkedIn http://linkedin.com/in/ayomide-olayiwola
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: i love solving problems
